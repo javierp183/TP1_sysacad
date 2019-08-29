@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace TP1_sysacad
 {
-    class Message_box
+    class Mensaje
     {
         public string Contenido { get; set; }
+        public string Desde { get; set; }
+        public string Destino { get; set; }
         DateTime FechaHora = DateTime.Now;
     }
 }

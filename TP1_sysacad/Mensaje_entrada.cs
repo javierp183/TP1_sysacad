@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace TP1_sysacad
 {
-    public class Mensaje_entrada : Message_box
+    public class Mensaje_entrada : Mensaje
     {
         public string Id { get; set; }
-        public string Destino { get; set; }
     }
 }

@@ -9,6 +9,5 @@ namespace TP1_sysacad
     public class Mensaje_salida : Message_box
     {
         public string Id { get; set; }
-        public string Destino { get; set; }
     }
 }
