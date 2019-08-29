@@ -1,0 +1,9 @@
+C:\Users\Javier Pereyra\source\repos\TP1_sysacad\TP1_sysacad\bin\Debug\TP1_sysacad.exe.config
+C:\Users\Javier Pereyra\source\repos\TP1_sysacad\TP1_sysacad\bin\Debug\TP1_sysacad.exe
+C:\Users\Javier Pereyra\source\repos\TP1_sysacad\TP1_sysacad\bin\Debug\TP1_sysacad.pdb
+C:\Users\Javier Pereyra\source\repos\TP1_sysacad\TP1_sysacad\obj\Debug\TP1_sysacad.csprojAssemblyReference.cache
+C:\Users\Javier Pereyra\source\repos\TP1_sysacad\TP1_sysacad\obj\Debug\TP1_sysacad.Properties.Resources.resources
+C:\Users\Javier Pereyra\source\repos\TP1_sysacad\TP1_sysacad\obj\Debug\TP1_sysacad.csproj.GenerateResource.cache
+C:\Users\Javier Pereyra\source\repos\TP1_sysacad\TP1_sysacad\obj\Debug\TP1_sysacad.csproj.CoreCompileInputs.cache
+C:\Users\Javier Pereyra\source\repos\TP1_sysacad\TP1_sysacad\obj\Debug\TP1_sysacad.exe
+C:\Users\Javier Pereyra\source\repos\TP1_sysacad\TP1_sysacad\obj\Debug\TP1_sysacad.pdb
